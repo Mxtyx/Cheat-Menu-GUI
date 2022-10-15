@@ -9,6 +9,9 @@ Star it for head
 -hot
 -NO IT DOSENT WORK IN GAMES OR HAVE AIMBOT ITS ONLY THE GUI 
 
+#How to use
+-Compile it and have fun you monkey
+
 #credits
 -Made by Mxty#8440
 
