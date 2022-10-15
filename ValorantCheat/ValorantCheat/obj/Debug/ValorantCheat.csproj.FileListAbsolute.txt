@@ -1,0 +1,15 @@
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\bin\Debug\ValorantCheat.exe.config
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\bin\Debug\ValorantCheat.exe
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\bin\Debug\ValorantCheat.pdb
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\bin\Debug\Guna.UI.dll
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.csproj.AssemblyReference.cache
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.Form1.resources
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.Properties.Resources.resources
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.csproj.GenerateResource.cache
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.csproj.CoreCompileInputs.cache
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.csproj.CopyComplete
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.exe
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.pdb
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\bin\Debug\Siticone.UI.dll
+C:\Users\Mxty\source\repos\ValorantCheat\ValorantCheat\obj\Debug\ValorantCheat.Form2.resources
