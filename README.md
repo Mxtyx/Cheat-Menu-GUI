@@ -7,6 +7,7 @@ Star it for head
 -Open Source
 -Sexy
 -hot
+-NO IT DOSENT WORK IN GAMES OR HAVE AIMBOT ITS ONLY THE GUI 
 
 #credits
 -Made by Mxty#8440
